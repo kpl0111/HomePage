@@ -1,11 +1,11 @@
 {
 	"head": {
-		"title": "一个坏掉的番茄",
-		"description": "Author:SimonMa,Category:Personal Blog",
+		"title": "Nefelibata",
+		"description": "Author:kpl0111,Category:Personal Blog",
 		"favicon": "favicon.ico"
 	},
 	"intro": {
-		"title": "Simon Ma",
+		"title": "Nefelibata",
 		"subtitle": "Front back left right end engineer",
 		"enter": "enter",
 		"supportAuthor": true,
@@ -13,7 +13,7 @@
 	},
 	"main": {
 		"name": "Simon Ma",
-		"signature": "Code & Input & Output",
+		"signature": "Input & Think & Output",
 		"avatar": {
 			"link": "assets/avatar.jpg",
 			"height": "100",
@@ -31,12 +31,12 @@
 				"text": "About"
 			},
 			"third": {
-				"href": "mailto:simon@tomotoes.com",
+				"href": "mailto:1911438@mail.nankai.edu.cn",
 				"icon": "email",
 				"text": "Email"
 			},
 			"fourth": {
-				"href": "https://github.com/tomotoes",
+				"href": "https://github.com/kpl0111",
 				"icon": "github",
 				"text": "Github"
 			}
